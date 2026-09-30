@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn TanStack Query",
+      "description": "Understand queries, mutations and cache management.",
+      "completed": false,
+      "createdAt": "2026-09-28T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Build Task Manager",
+      "description": "Practice CRUD operations with useMutation.",
+      "completed": true,
+      "createdAt": "2026-09-29T10:00:00.000Z"
+    }
+  ]
+}
