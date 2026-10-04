@@ -22,26 +22,21 @@ The project focuses on understanding how TanStack Query handles:
 
    Tasks are fetched from a JSON Server API using useQuery.
 
-3. Create Task
-
-   Users can create a new task with:
-
+2. Create Task: Users can create a new task with:
    - Title
    - Description
    - Completed status
    - Created date
 
-   The request is handled with useMutation.
+The request is handled with useMutation.
 
 3. Update Task
-
    Tasks can be marked as:
 
-   - Completed
-   - Pending
+- Completed
+- Pending
 
-   The update uses an HTTP PATCH request.
+The update uses an HTTP PATCH request.
 
 4. Delete Task
-
    Tasks can be deleted using useMutation.
